@@ -1,4 +1,5 @@
 React To-Do List App
+
 Welcome to the React To-Do List App, a comprehensive and feature-rich task management application designed to showcase the power and simplicity of modern React.js. This project serves as an ideal entry point for developers new to the React ecosystem, providing a hands-on opportunity to grasp fundamental concepts in a practical and engaging way. More than just a simple checklist, this application is a testament to how elegant and powerful user interfaces can be built with minimal complexity.
 
 The core of this project is built around essential React principles. You'll see how a user interface can be broken down into modular, reusable components. State management, a critical aspect of any dynamic application, is handled cleanly and efficiently using React's useState hook, allowing the app to seamlessly track tasks, their completion status, and user input in real-time. The application logic covers key functionalities such as adding new tasks, toggling their completion, and deleting them, all while ensuring the UI updates instantly without page reloads.
